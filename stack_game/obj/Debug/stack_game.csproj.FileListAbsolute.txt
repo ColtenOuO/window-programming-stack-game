@@ -1,0 +1,10 @@
+C:\Users\Colten\source\repos\stack_game\stack_game\bin\Debug\stack_game.exe.config
+C:\Users\Colten\source\repos\stack_game\stack_game\bin\Debug\stack_game.exe
+C:\Users\Colten\source\repos\stack_game\stack_game\bin\Debug\stack_game.pdb
+C:\Users\Colten\source\repos\stack_game\stack_game\obj\Debug\stack_game.csprojAssemblyReference.cache
+C:\Users\Colten\source\repos\stack_game\stack_game\obj\Debug\stack_game.Form1.resources
+C:\Users\Colten\source\repos\stack_game\stack_game\obj\Debug\stack_game.Properties.Resources.resources
+C:\Users\Colten\source\repos\stack_game\stack_game\obj\Debug\stack_game.csproj.GenerateResource.cache
+C:\Users\Colten\source\repos\stack_game\stack_game\obj\Debug\stack_game.csproj.CoreCompileInputs.cache
+C:\Users\Colten\source\repos\stack_game\stack_game\obj\Debug\stack_game.exe
+C:\Users\Colten\source\repos\stack_game\stack_game\obj\Debug\stack_game.pdb
